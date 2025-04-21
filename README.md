@@ -5,9 +5,12 @@ RAZOR SMP: Mod pack
 
 
 > [!IMPORTANT]
-> Using the issues tab you may request addition of your own mod
+> ### Using the issues tab you may request addition of your own mod
+> 
 > Current modpack theme: RPG
+> 
 > Server address: Undefined
+> 
 > Level of modification: Medium
 
 ### Todo:
