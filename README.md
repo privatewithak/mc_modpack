@@ -12,6 +12,8 @@ RAZOR SMP: Mod pack
 > Server address: Undefined
 > 
 > Level of modification: Medium
+>
+> Minecraft version: 1.20.1
 
 ### Todo:
 - [x] Create a repository
