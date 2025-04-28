@@ -1,0 +1,82 @@
+[
+  {
+    "item": "minecraft:stone_sword",
+    "skill": "Combat",
+    "level": 2
+  },
+  {
+    "item": "minecraft:iron_sword",
+    "skill": "Combat",
+    "level": 5
+  },
+  {
+    "item": "minecraft:diamond_sword",
+    "skill": "Combat",
+    "level": 10
+  },
+  {
+    "item": "minecraft:netherite_sword",
+    "skill": "Combat",
+    "level": 15
+  },
+  {
+    "item": "minecraft:stone_pickaxe",
+    "skill": "Mining",
+    "level": 2
+  },
+  {
+    "item": "minecraft:iron_pickaxe",
+    "skill": "Mining",
+    "level": 5
+  },
+  {
+    "item": "minecraft:diamond_pickaxe",
+    "skill": "Mining",
+    "level": 10
+  },
+  {
+    "item": "minecraft:netherite_pickaxe",
+    "skill": "Mining",
+    "level": 15
+  },
+  {
+    "item": "minecraft:stone_axe",
+    "skill": "foraging",
+    "level": 2
+  },
+  {
+    "item": "minecraft:iron_axe",
+    "skill": "foraging",
+    "level": 5
+  },
+  {
+    "item": "minecraft:diamond_axe",
+    "skill": "foraging",
+    "level": 10
+  },
+  {
+    "item": "minecraft:netherite_axe",
+    "skill": "foraging",
+    "level": 15
+  },
+  {
+    "item": "minecraft:stone_hoe",
+    "skill": "farming",
+    "level": 2
+  },
+  {
+    "item": "minecraft:iron_hoe",
+    "skill": "farming",
+    "level": 5
+  },
+  {
+    "item": "minecraft:diamond_hoe",
+    "skill": "farming",
+    "level": 10
+  },
+  {
+    "item": "minecraft:netherite_hoe",
+    "skill": "farming",
+    "level": 15
+  }
+]

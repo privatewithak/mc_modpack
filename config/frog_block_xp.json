@@ -1,0 +1,254 @@
+[
+  {
+    "block": "minecraft:stone",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 1
+  },
+  {
+    "block": "minecraft:cobblestone",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 1
+  },
+  {
+    "block": "minecraft:coal_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 2
+  },
+  {
+    "block": "minecraft:diamond_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "block": "minecraft:iron_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:gold_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 7
+  },
+  {
+    "block": "minecraft:lapis_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 3
+  },
+  {
+    "block": "minecraft:emerald_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "block": "minecraft:nether_quartz_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 3
+  },
+  {
+    "block": "minecraft:nether_gold_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 3
+  },
+  {
+    "block": "minecraft:ancient_debris",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "block": "minecraft:redstone_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 6
+  },
+  {
+    "block": "minecraft:deepslate_diamond_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "block": "minecraft:deepslate_iron_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:deepslate_gold_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 7
+  },
+  {
+    "block": "minecraft:deepslate_lapis_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 3
+  },
+  {
+    "block": "minecraft:deepslate_emerald_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "block": "minecraft:deepslate_redstone_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 6
+  },
+  {
+    "block": "minecraft:deepslate_copper_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:deepslate_coal_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 2
+  },
+  {
+    "block": "minecraft:copper_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:netherite_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 30
+  },
+  {
+    "block": "minecraft:diamond_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "block": "minecraft:emerald_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "block": "minecraft:gold_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 7
+  },
+  {
+    "block": "minecraft:lapis_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 3
+  },
+  {
+    "block": "minecraft:iron_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:redstone_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 6
+  },
+  {
+    "block": "minecraft:deepslate_block",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 5
+  },
+  {
+    "block": "minecraft:obsidian",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:netherite_ore",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "block": "minecraft:crying_obsidian",
+    "skill": "Mining",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:oak_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:spruce_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:birch_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:jungle_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:acacia_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:dark_oak_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:mangrove_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:cherry_log",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:crimson_stem",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "block": "minecraft:warped_stem",
+    "skill": "Foraging",
+    "level": 1,
+    "xpAmount": 20
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "mob": "minecraft:zombie",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "mob": "minecraft:skeleton",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "mob": "minecraft:creeper",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "mob": "minecraft:spider",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 8
+  },
+  {
+    "mob": "minecraft:drowned",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "mob": "minecraft:husk",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "mob": "minecraft:stray",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "mob": "minecraft:witch",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "mob": "minecraft:slime",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 6
+  },
+  {
+    "mob": "minecraft:phantom",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "mob": "minecraft:pillager",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "mob": "minecraft:evoker",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 30
+  },
+  {
+    "mob": "minecraft:ravager",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 50
+  },
+  {
+    "mob": "minecraft:zombified_piglin",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 10
+  },
+  {
+    "mob": "minecraft:blaze",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 20
+  },
+  {
+    "mob": "minecraft:ghast",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 25
+  },
+  {
+    "mob": "minecraft:magmacube",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 12
+  },
+  {
+    "mob": "minecraft:hoglin",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 18
+  },
+  {
+    "mob": "minecraft:piglin_brute",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 35
+  },
+  {
+    "mob": "minecraft:witherskeleton",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 30
+  },
+  {
+    "mob": "minecraft:enderman",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 15
+  },
+  {
+    "mob": "minecraft:shulker",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 25
+  },
+  {
+    "mob": "minecraft:endermite",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 8
+  },
+  {
+    "mob": "minecraft:ender_dragon",
+    "skill": "Combat",
+    "level": 1,
+    "xpAmount": 100
+  }
+]

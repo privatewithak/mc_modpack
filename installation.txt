@@ -1,1 +1,6 @@
+requirements:
 
+Java 17 or newer
+Minecraft version 1.20.1
+
+insert folder "mods" and "resourcepacks" in your .minecraft, located in C:/Users/*yourusername*/AppData/Roaming
